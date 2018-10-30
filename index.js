@@ -5,7 +5,7 @@ if (name === "Susan") {
   console.log("The name is correct")
 }
 
-else () {
+else (name === "Susan") {
   console.log("Expected name to be Susan")
 }
 
